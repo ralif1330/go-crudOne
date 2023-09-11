@@ -1,9 +1,11 @@
 Website Crud Golang
 
-Golang
-HTML
-Bootstrap
-mySQL
+Golang<br>
+HTML<br>
+Bootstrap<br>
+mySQL<br>
+
+Jalankan mySQL di Xampp / Adminer <br>
 
 MVC sebagai pattern<br>
 Model View Controllers<br>
