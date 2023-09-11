@@ -10,13 +10,13 @@ Model View Controllers<br>
 Jalankan Program go run . (titik)<br>
 Matikan Program CTRL + C
 
-Folder  : Models, Views, Controllers, 
+Folder  : Models, Views, Controllers, <br>
 Folder tambahan : config, entities
 
 Kegunaan Folder = 
    - Views untuk menampung file file layout tampilan websitenya
    - Models untuk file yang komunikasi dengan database
-   - entities file file yang didalamnya merupakan struct gambaran dari table di database
+   - entities adalah file file yang didalamnya merupakan struct gambaran dari table di database
    - controllers logic
    - config koneksi ke database 
 
