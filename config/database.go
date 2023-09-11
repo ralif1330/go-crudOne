@@ -5,6 +5,7 @@ import (
 	"log"
 
 	_ "github.com/go-sql-driver/mysql"
+
 )
 
 	var DB *sql.DB
@@ -13,7 +14,8 @@ func ConnectDB() {
 
 	// nama DB = go-crudOne 
 	// Jika ada error di hentikan 
-	db, err := sql.Open("mysql", "root:@/go-crudOne")
+
+	db, err := sql.Open("mysql", "root:@/go-crudOne?parseTime=true")
 	if err != nil {
 		panic(err)
 	}

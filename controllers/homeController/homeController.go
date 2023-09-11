@@ -3,7 +3,6 @@ package homeController
 import (
 	"net/http"
 	"text/template"
-
 )
 
 // diwajibkan dua parameter = Response dan Request
@@ -12,7 +11,7 @@ import (
 
 
 func Welcome(w http.ResponseWriter, r *http.Request) {
-	temp, err := template.ParseFiles("views/homeViews/indexHome.html")
+	temp, err := template.ParseFiles("views/homeView/indexHome.html")
 	if err != nil {
 		panic(err)
 	}
