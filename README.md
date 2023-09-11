@@ -5,7 +5,7 @@ HTML
 Bootstrap
 mySQL
 
-MVC sebagai pattern
+MVC sebagai pattern<br>
 Model View Controllers
 Jalankan Program go run . (titik)
 Matikan Program CTRL + C
