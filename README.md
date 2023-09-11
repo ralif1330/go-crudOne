@@ -6,8 +6,8 @@ Bootstrap
 mySQL
 
 MVC sebagai pattern<br>
-Model View Controllers
-Jalankan Program go run . (titik)
+Model View Controllers<br>
+Jalankan Program go run . (titik)<br>
 Matikan Program CTRL + C
 
 Folder  : Models, Views, Controllers, 
