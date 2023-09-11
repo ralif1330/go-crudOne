@@ -9,6 +9,9 @@ Jalankan mySQL di Xampp / Adminer <br>
 
 MVC sebagai pattern<br>
 Model View Controllers<br>
+
+![mvc](/mvc.png)
+
 Jalankan Program go run . (titik)<br>
 Matikan Program CTRL + C
 
@@ -36,3 +39,7 @@ package bawaan golang
 -Folder Controller = 
    - template.ParseFiles()
          = untuk menerima operan dari file main.go 
+
+-Folder Views / HTML = 
+   - HREF
+         = ketika di klik akan mengarahkan ke folder controller
