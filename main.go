@@ -6,6 +6,7 @@ import (
 	"crudone/controllers/homeController"
 	"log"
 	"net/http"
+
 )
 
 
@@ -19,8 +20,8 @@ func main() {
 
 	// Category 
 	http.HandleFunc("/category/Index", categoryController.Index)
-	// http.HandleFunc("/category/Add", categoryController.Welcome)
-	// http.HandleFunc("/category/Edit", categoryController.Welcome)
+		http.HandleFunc("/category/Add", categoryController.Add)
+			http.HandleFunc("/category/Edit", categoryController.Edit)
 	// http.HandleFunc("/category/Delete", categoryController.Welcome)
 
 

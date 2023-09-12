@@ -7,6 +7,9 @@ mySQL<br>
 
 Jalankan mySQL di Xampp / Adminer <br>
 
+
+HTML > Controller
+
 MVC sebagai pattern<br>
 Model View Controllers<br>
 Model > Controller
@@ -26,7 +29,8 @@ Kegunaan Folder =
    - Models untuk file yang komunikasi dengan database
    - entities adalah file file yang didalamnya merupakan struct gambaran dari table di database
    - controllers logic
-   - config koneksi ke database 
+   - config koneksi ke database
+   - Controller Yang Akan Mengirimkan HTML 
 
 
 package bawaan golang 
@@ -34,6 +38,8 @@ package bawaan golang
 <br>
 
 Sesuaikan folder entities dengan table yang ada di database
+
+
 
 
   ###  Fungsi masing2 URL/HREF 
