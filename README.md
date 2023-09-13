@@ -5,7 +5,7 @@ HTML<br>
 Bootstrap<br>
 mySQL<br>
 
-Jalankan mySQL di Xampp / Adminer <br>
+Jalankan mySQL dii Xampp / Adminer <br>
 
 
 HTML > Controller
